@@ -1,7 +1,7 @@
 {
   "engine": "REA_Reverse_Engineer_Anything",
   "status": "STRUCTURE_RECONSTRUCTED",
-  "analyzed_files": 22,
+  "analyzed_files": 24,
   "manifest": {
     "Cargo.toml": {
       "bytes": 348
@@ -17,6 +17,12 @@
     },
     "reports\\PROJECT_SCORECARD.json": {
       "bytes": 278
+    },
+    "reports\\RAVEN_RSI_DIAGNOSTIC.json": {
+      "bytes": 340
+    },
+    "reports\\REA_ANALYSIS.json": {
+      "bytes": 1566
     },
     "scripts\\rea_inspector.py": {
       "bytes": 1485
@@ -70,5 +76,5 @@
       "bytes": 2
     }
   },
-  "timestamp": 1793995074
+  "timestamp": 1794222777
 }
